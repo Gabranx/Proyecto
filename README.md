@@ -8,7 +8,7 @@
 
 **Objetivos corto plazo**
 
-*Realizar analisis estadísticos en base a la información que se encuentra a disposición en la página web, con respecto a los libros destacados y mas vendidos 
+* Realizar analisis estadísticos en base a la información que se encuentra a disposición en la página web, con respecto a los libros destacados y mas vendidos 
 
 **Objetivos largo plazo**
 
